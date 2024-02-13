@@ -14,7 +14,7 @@ const links = document.querySelector('.links')
 navToggle.addEventListener('click', function() {
     
     // linksContainer.classList.toggle('show-links')
-    const  containerHeight = linksContainer.getBoundingClientRect()
+    const  containerHeight = linksContainer.getBoundingClientRect().height
     const linksHeight = links.getBoundingClientRect().height
 })
 
