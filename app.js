@@ -15,7 +15,7 @@ navToggle.addEventListener('click', function() {
     
     // linksContainer.classList.toggle('show-links')
     const  containerHeight = linksContainer.getBoundingClientRect()
-    const linksHeight = links.getBoundingClientRect()
+    const linksHeight = links.getBoundingClientRect().height
 })
 
 // ********** fixed navbar ************
