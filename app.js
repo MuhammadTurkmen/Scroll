@@ -27,6 +27,6 @@ navToggle.addEventListener('click', function() {
 // ********** fixed navbar ************
 window.addEventListener('scroll', function() {  
 
-})
+}) 
 // ********** smooth scroll ************
 // select links
