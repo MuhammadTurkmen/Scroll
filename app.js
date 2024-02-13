@@ -9,7 +9,7 @@ date.innerHTML = new Date().getFullYear()
 // ********** close links ************
 const navToggle = document.querySelector('.nav-toggle')
 const linksContainer = document.querySelector('.links-container')
-const navToggle = document.querySelector('.nav-toggle')
+const links = document.querySelector('.links')
 // ********** fixed navbar ************
 
 // ********** smooth scroll ************
