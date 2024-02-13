@@ -7,7 +7,7 @@
 const date = document.getElementById('date')
 date.innerHTML = new Date().getFullYear()
 // ********** close links ************
-
+const navToggle = 
 // ********** fixed navbar ************
 
 // ********** smooth scroll ************
