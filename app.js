@@ -29,4 +29,4 @@ window.addEventListener('scroll', function() {
 
 }) 
 // ********** smooth scroll ************
-// select links
+// select links 
