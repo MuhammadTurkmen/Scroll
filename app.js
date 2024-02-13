@@ -17,7 +17,7 @@ navToggle.addEventListener('click', function() {
     const  containerHeight = linksContainer.getBoundingClientRect().height
     const linksHeight = links.getBoundingClientRect().height
     if(containerHeight === 0) {
-        linksContainer.style.height = `${linksHeight}`
+        linksContainer.style.height = `${linksHeight}px`
     }
 })
 
