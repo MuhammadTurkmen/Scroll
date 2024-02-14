@@ -24,6 +24,7 @@ navToggle.addEventListener('click', function() {
     }
 }) 
 
+const navbar = document.getElementById('')
 // ********** fixed navbar ************
 window.addEventListener('scroll', function() {  
  
