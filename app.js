@@ -58,6 +58,7 @@ scrollLinks.forEach(function(link) {
         const element = document.getElementById(id)
         // calculate the height
         const navHeight = navbar.getBoundingClientRect().height
+        const containerHeight = linksContainer.getBoundingClientRect().height
         let position = element.offsetTop
         window.scrollTo({
             left: 0,
