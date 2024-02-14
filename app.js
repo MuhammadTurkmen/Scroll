@@ -36,6 +36,10 @@ window.addEventListener('scroll', function() {
     else{
         navbar.classList.remove('fixed-nav')
     }
+
+    if(scrollHeight > 500) {
+        
+    }
 }) 
 // ********** smooth scroll ************
 // select links 
