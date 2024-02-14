@@ -53,5 +53,6 @@ scrollLinks.forEach(function(link) {
     link.addEventListener('click', function(e) {
         // prevent Default
         e.preventDefault()
+        // navigate to specific spot
     })
 })
