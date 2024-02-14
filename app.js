@@ -51,6 +51,6 @@ const scrollLinks = document.querySelectorAll('.scroll-links')
 
 scrollLinks.forEach(function(link) {
     link.addEventListener('click', function(e) {
-
+        e.preventDefault
     })
 })
