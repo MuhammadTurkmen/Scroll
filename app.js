@@ -59,7 +59,7 @@ scrollLinks.forEach(function(link) {
         let position = element.offsetTop
         window.scrollTo({
             left: 0,
-            top: 100
+            top: position
         })
     })
 })
