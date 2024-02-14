@@ -22,7 +22,7 @@ navToggle.addEventListener('click', function() {
     else {
         linksContainer.style.height = 0
     }
-})
+}) 
 
 // ********** fixed navbar ************
 window.addEventListener('scroll', function() {  
