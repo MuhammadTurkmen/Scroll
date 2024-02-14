@@ -38,7 +38,7 @@ window.addEventListener('scroll', function() {
     }
 
     if(scrollHeight > 500) {
-        
+        topLink.classList.add('show-link')
     }
 }) 
 // ********** smooth scroll ************
