@@ -49,4 +49,6 @@ window.addEventListener('scroll', function() {
 
 const scrollLinks = document.querySelectorAll('.scroll-links')
 
-scrollLinks.forEach()
+scrollLinks.forEach(function() {
+    
+})
